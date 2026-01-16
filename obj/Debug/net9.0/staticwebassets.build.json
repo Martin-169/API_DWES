@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "m9wPKEjdl+7o/YeB2OHKJEOjVYapOQx8p29BlL9RRe0=",
+  "Source": "API_DWES",
+  "BasePath": "_content/API_DWES",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
